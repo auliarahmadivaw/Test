@@ -3,7 +3,7 @@
 worlcup= dict(
 nama_tim = ("Argentina","Portugal","Prancis","Maroko","Kroasia"), 
 nama_pemain = ("Messi","Mbappe","Modric","Hakimi","Ramos"), 
-pemain_terbaik = "Messi",
+pemain_terbaik = "MModric",
 )
 dict.clear(worlcup) 
 print(worlcup)
