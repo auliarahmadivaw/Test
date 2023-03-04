@@ -1,12 +1,12 @@
 #Function Method
 #menghapus semua item dari dictionary 
-worlcup= dict(
-nama_klub = ("Argentina","Portugal","Prancis","Maroko","Kroasia"), 
+worldcup= dict(
+nama_tim = ("Argentina","Portugal","Prancis","Maroko","Kroasia"), 
 nama_pemain = ("Messi","Mbappe","Modric","Hakimi","Ramos"), 
 pemain_terbaik = "Messi",
 )
-dict.clear(worlcup) 
-print(worlcup)
+dict.clear(worldcup) 
+print(worldcup)
 #menyalin dictionary  dengan metode copy()
 dictionary1 = {
 "partai": "Banteng Merah",
